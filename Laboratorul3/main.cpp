@@ -13,7 +13,7 @@ int main()
 	cout << "z="; cin >> z;
 	cout << "x+y = " << Obj1.Add(x, y)<<"\n";
 	//cout << " mul double = " << Obj1.Mul(1.5, 2, 2);
-	// Daca vedeti aceste exercitiu inaint sa il rezolv cu trebuie, regret ca imi i-a atat demult timp , mai sunt cateva lucruri pe care sa le inteleg 
+	// Daca vedeti aceste exercitiu inaint sa il rezolv cu trebuie, regret ca imi ia atat demult timp , mai sunt cateva lucruri pe care sa le inteleg 
 	// Va multumesc frumos pentru rabdare
 
 	system("pause");
