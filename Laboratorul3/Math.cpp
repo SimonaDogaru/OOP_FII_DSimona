@@ -51,6 +51,7 @@ int Math::Add(int count, ...)
 	va_end(val);
 	return sum;
 }
+// metoda aloca memorie si alipeste doua siruri de caractere
 char* Math::Add( const char* text1, const char* text2)
 {
 	if (text1 == nullptr || text2 == nullptr)
