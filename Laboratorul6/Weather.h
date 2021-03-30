@@ -1,5 +1,5 @@
 #pragma once
-enum Weather
+enum  Weather
 {
 	Rain,
 	Sunny,
