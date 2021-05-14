@@ -7,7 +7,7 @@
 * 2 aux  = lista [i] ,nu aux == lista [i]
 * 3 cand facem swap() intre elemente, scriem si ok = false;
 * 4 la parametri trebuie scris T* lista, nu T lista! de ce ? pentru ca list1 din sortare la transmite adresa de un de incepe lista de elemente, deci parametrul trebuie sa fie de tip pionter pentru a retine o adresa
-* 5 la for trebuie parcurs pana la penultimul element, nu pana la mai nr de elemnte plus 1
+* 5 la for trebuie parcurs pana la penultimul element, nu pana la  nr de elemnte plus 1
 */
 
 template<class T>
